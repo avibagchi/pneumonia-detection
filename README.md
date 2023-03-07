@@ -1,4 +1,5 @@
 # pneumonia-detection
+- [Access Lab](https://colab.research.google.com/drive/1mDQo4BHiN3UiMkuZ-KxPeaknHZIIhsNK?usp=sharing)
 - CNN model that differentiates pneumonia from normal chest xrays
 - TensorFlow + tf-explain + TensorBoard
 - Developed as teaching material for Prof. Prasanna Tambe
